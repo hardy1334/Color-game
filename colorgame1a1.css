@@ -1,0 +1,57 @@
+#h1first{
+  background-color: #CCCC99;
+  color:#fff;
+  font-family: fantasy;
+  height: 80px;
+  padding-top: 14px;
+}
+.square{
+  width:30%;
+  padding-top: 30%;
+  margin: 1.25%;
+  background-color: yellow;
+  float:left;
+  border-radius: 18px;
+}
+body{
+  background-color: #99CC99;
+}
+.firstmain{
+  max-width: 600px;
+  margin: auto;
+}
+#fail{
+
+  background-color:#fff;
+  font-weight: bold;
+}
+#strip{
+  width: fluid;
+  height:50px;
+  background-color: #66FFFF;
+  text-align: center;
+}
+#reset{
+  color:yellow;
+  background-color: #fff;
+  font-weight: bold;
+
+}
+.selected:hover{
+  background-color: blue;
+}
+#easybutt{
+  margin-left: 290px;
+  background:#66FFFF;
+
+}
+#hardbutt{
+    background:#66FFFF;
+
+}
+#resetbuttonchange{
+  padding-top: 14px;
+}
+#modebutt{
+  margin-top:-21px;
+}
